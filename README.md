@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Farshad Bishomar. a Front-end Web Developer working mostly with ReactJs.
 
-I enjoy working with reactJs and some spice of boostrap with it and sometimes if needed work with TypeScript and Redux.
+I enjoy working with reactJs and some spice of Bootstrap with it and sometimes if needed work with TypeScript and Redux.
 
 I am self educated with online courses about programming and Front-end web developping.
 and I learned about these frameworks and React in 2021-2022.
