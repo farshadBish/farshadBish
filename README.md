@@ -18,5 +18,4 @@ I am Farshad Bishomar. a Front-end Web Developer working mostly with ReactJs.
 
 I enjoy working with reactJs and some spice of Bootstrap with it and sometimes if needed work with TypeScript and Redux.
 
-I am self educated with online courses about programming and Front-end web developping.
-and I learned about these frameworks and React in 2021-2022.
+I am self educated with online courses and also have a boot camp certificate about MERN-stack developing.
